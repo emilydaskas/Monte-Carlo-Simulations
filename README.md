@@ -1,7 +1,7 @@
 # Monte Carlo Simulations
 ### Computational Economics Project 1
 
-This project contains monte carlo simulations for the Ascending Clock Auction and Vegas Hotel Profit Projections.
+This project contains monte-carlo simulations for the expected revenue of Ascending Clock Auctions and project profits of Vegas Hotel builds.
 
 ## Ascending Clock Auction:
 
