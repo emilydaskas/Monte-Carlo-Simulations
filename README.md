@@ -20,10 +20,10 @@ A reserve price is the minimum price a seller is willing to accept to sell the i
  
 **The problem:**
 
-Find expected revenue if there are 5 buyers and the clock increment is $1?
-Find the expected revenue if there are 5 buyers and the clock increment is $10? 
-Find the expected revenue if there are 20 buyers with a clock increment of $1?
-Find the reserve price should the seller choose?
+- Find expected revenue if there are 5 buyers and the clock increment is $1.
+- Find the expected revenue if there are 5 buyers and the clock increment is $10.
+- Find the expected revenue if there are 20 buyers with a clock increment of $1.
+- Find the reserve price that the seller should choose.
 
 ## Rules for Vegas Hotel Projections:
 
