@@ -1,4 +1,4 @@
-# Monte-Carlo-Simulations
+# Monte Carlo Simulations
 ### Computational Economics Project 1
 
 This project contains monte carlo simulations for the Ascending Clock Auction and Vegas Hotel Profit Projections.
