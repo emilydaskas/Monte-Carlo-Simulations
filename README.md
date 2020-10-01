@@ -9,8 +9,6 @@ This project contains monte carlo simulations for the Ascending Clock Auction an
 
 An ascending clock auction is an auction where the seller starts bidding at a low price and gradually raises the price as the auction progresses. As the price increases, bidders can choose to stay in the auction (bid for the item at the clock price) or drop out and forgo their chance at winning the item. The clock price is usually raised by a fixed discrete increment. The auction ends when there is only one bidder remaining. The winning bidder gets the item and pays the posted price (clock price from the last round with multiple bidders).
 
-*Example: A seller is auctioning off a baseball card. The starting auction price is $10 and the clock increment is $1. In the first round of bidding there are 5 people who place bids of $10. The seller then raises the price to $11 and bidding continues until there is only one bidder willing to pay the clock price. Say this continues until the clock price is $15 and there are two bidders left. If one bidder drops out, the remaining bidder wins the baseball card and pays the posted price of $14.*
-
 For this simulation, assume the following parameters:
 - Buyer values are drawn between 0 and 100 in increments of 5
 - Seller reserve prices are allowed to be between 0 and 100 in increments of 5
