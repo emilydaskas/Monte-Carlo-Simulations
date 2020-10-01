@@ -3,7 +3,9 @@
 
 This project contains monte carlo simulations for the Ascending Clock Auction and Vegas Hotel Profit Projections.
 
-## Rules for Ascending Clock Auction:
+## Ascending Clock Auction:
+
+**Rules for Ascending Clock Auction:**
 
 An ascending clock auction is an auction where the seller starts bidding at a low price and gradually raises the price as the auction progresses. As the price increases, bidders can choose to stay in the auction (bid for the item at the clock price) or drop out and forgo their chance at winning the item. The clock price is usually raised by a fixed discrete increment. The auction ends when there is only one bidder remaining. The winning bidder gets the item and pays the posted price (clock price from the last round with multiple bidders).
 
@@ -25,7 +27,9 @@ A reserve price is the minimum price a seller is willing to accept to sell the i
 - Find the expected revenue if there are 20 buyers with a clock increment of $1.
 - Find the reserve price that the seller should choose.
 
-## Rules for Vegas Hotel Projections:
+## Vegas Hotel Projections:
+
+**Rules:**
 
 We have the following model:
 
