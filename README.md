@@ -19,12 +19,14 @@ For this simulation, assume the following parameters:
 A reserve price is the minimum price a seller is willing to accept to sell the item. If the final clock price is below the reserve price the seller receives zero revenue. This means, with a reserve price, the auction now ends when either there are zero buyers bidding at the current clock price, or there is one buyer bidding and the reserve price has been met.
  
 **The problem:**
+
 Find expected revenue if there are 5 buyers and the clock increment is $1?
 Find the expected revenue if there are 5 buyers and the clock increment is $10? 
 Find the expected revenue if there are 20 buyers with a clock increment of $1?
 Find the reserve price should the seller choose?
 
 ## Rules for Vegas Hotel Projections:
+
 We have the following model:
 
 We have the following rules:
@@ -32,6 +34,8 @@ We have the following rules:
 - The main competitor currently has no hotels.
 - They can only build one hotel at a time.
 - A hotel takes m years to build.
+
+**The problem:**
 
 Find the expected profit over the next T years, where T = 10 and m = 2. 
 
