@@ -29,11 +29,17 @@ An ascending clock auction is an auction where the seller starts bidding at a lo
 
 We have the following model:
 
-*We have the following rules:*
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi(t)=\frac{750+50t}{n+1}" title="\Small pi(t)=\f\frac{750+50t}{n+1}" />
+
+where <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi(t)" title="\Small \pi(t)" /> is the profit in year t, and n is the number of hotels the main competitor owns.
+
+*Assume the hotel's competitor profile is built using these rules:*
 - You begin in year 1.
 - The main competitor currently has no hotels.
 - They can only build one hotel at a time.
 - A hotel takes m years to build.
+
+An example of a valid construction profile is: {0,1,1,2,2,2,3,3,3,3}
 
 **The problem:**
 
